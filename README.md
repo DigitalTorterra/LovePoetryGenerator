@@ -1,6 +1,6 @@
 # AI Love Poet
 
-See my blog at []()
+See my blog post [here](https://www.digitaltorterra.com/ai-love-poetry).
 
 Works Cited:
 https://poets.org/love-poems
